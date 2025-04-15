@@ -1,1 +1,1 @@
-Supplimentary files to aid in development of FishyHotel.
+Supplimentary files to aid in the development of FishyHotel.
